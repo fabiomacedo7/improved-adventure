@@ -3,3 +3,4 @@
 3. APIs facilitam a coleta de informações.
 4. Um banco de dados torna tudo mais eficiente.
 5. Projetos assim ajudam a aprender tecnologia.
+6. Nova frase.
